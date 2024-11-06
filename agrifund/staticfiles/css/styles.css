@@ -35,14 +35,13 @@ body {
 /* Styling for the Download button container */
 .download-btn-container {
     margin-top: 20px; /* Adds space between the text and the button */
-    text-align: center; /* Centers the button */
     z-index: 2; /* Ensure it stays above the image */
 }
 
 /* Styling for the Download button */
 .download-btn {
-    background-color: #34A853; /* Google Play green */
-    color: white;
+    background-color: #333333; /* Google Play green */
+    color: #34A853;
     font-size: 18px;
     padding: 18px 50px; /* Adjust padding to make the button large */
     border: none;
